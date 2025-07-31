@@ -49,9 +49,9 @@ Coming in the Future:
 
 Are you a student, alumni, or mentor interested in supporting QSS?
 
-- 📬 **Email us:** qss@queensu.ca
+- 📬 **Email us:** tech@qssummit.com
 - 🌐 **Website:** [queensstartupsummit.com](https://queensstartupsummit.com)
-- 📸 **Instagram:** [@queensstartupsummit](https://www.instagram.com/queensstartupsummit)
+- 📸 **Instagram:** [@queensstartupsummit](https://www.instagram.com/qssummit)
 
 ---
 
