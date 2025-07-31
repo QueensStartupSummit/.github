@@ -1,6 +1,6 @@
 # 🚀 Queen's Startup Summit (QSS)
 
-Welcome to the official GitHub organization for **Queen's Startup Summit (QSS)** — a student-run initiative at Queen’s University that empowers student entrepreneurship through collaboration, competition, and innovation.
+Welcome to the official GitHub organization for **Queen's Startup Summit (QSS)** - a student-run initiative at Queen’s University that empowers student entrepreneurship through collaboration, competition, and innovation.
 
 ---
 
